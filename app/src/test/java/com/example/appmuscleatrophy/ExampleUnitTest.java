@@ -1,4 +1,4 @@
-package com.example.musleatrophyapp;
+package com.example.appmuscleatrophy;
 
 import org.junit.Test;
 
