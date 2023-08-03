@@ -10,9 +10,9 @@ api = Api(app)
 
 api.add_resource(VideoSubmission, "/videoSubmission")
 api.add_resource(VideoCheck, "/video/<int:video_id>")
-
+    
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
 
     
